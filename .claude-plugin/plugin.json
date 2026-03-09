@@ -7,7 +7,6 @@
   },
   "version": "1.0.0",
   "skills": "./skills/",
-  "agents": "./agents/",
   "commands": "./commands/",
   "hooks": "./hooks/hooks.json"
 }
