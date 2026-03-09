@@ -110,9 +110,21 @@ FAAH is not optimised for non-frontend or non–git-backed repos.
 
 ## Installation
 
-1. **Add the plugin** — Install FAAH from your Claude Code plugin listing, or copy the FAAH plugin folder into your project and reference it in your Claude Code configuration.
-2. **Confirm** — Ensure the plugin loads (e.g. `faah` appears in your plugins/skills).
-3. **First use** — In your frontend project, run [Quickstart](#quickstart) below.
+**Option A — Plugin marketplace (recommended)**
+
+```
+/plugin marketplace add rkpinata/rkpinata-plugin
+/plugin install faah@rkpinata-plugins
+```
+
+**Option B — Manual**
+
+Copy the FAAH plugin folder into your project and reference it in your Claude Code configuration.
+
+**After installing**
+
+1. **Confirm** — Ensure the plugin loads (e.g. `faah` appears in your plugins/skills).
+2. **First use** — In your frontend project, run [Quickstart](#quickstart) below.
 
 ---
 
