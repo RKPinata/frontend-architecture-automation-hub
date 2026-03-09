@@ -1,0 +1,13 @@
+{
+  "name": "faah",
+  "description": "FAAH: Frontend Architecture Automation Hub. Orchestrates architecture and feature planning. Investigate codebases, build project caches, and produce implementation blueprints.",
+  "author": {
+    "name": "RKPinata",
+    "email": "teukutiga@gmail.com"
+  },
+  "version": "1.0.0",
+  "skills": "./skills/",
+  "agents": "./agents/",
+  "commands": "./commands/",
+  "hooks": "./hooks/hooks.json"
+}
